@@ -47,7 +47,7 @@ I create **AI-driven applications** and backend solutions that solve real-world 
 ---
 
 ## 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/zona-zubair-9b41b5321/) | [GitHub](https://github.com/)  
+[LinkedIn](https://www.linkedin.com/in/zona-zubair-9b41b5321/) | [GitHub](https://github.com/ZonaZubair)  
 
 ---
 
