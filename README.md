@@ -46,6 +46,14 @@ I create **AI-driven applications** and backend solutions that solve real-world 
 
 ---
 
+## 📊 GitHub Stats
+
+![Zona's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZonaZubair&show_icons=true&theme=react)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZonaZubair&layout=compact&theme=react)  
+![Zona's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=ZonaZubair&theme=react-dark&area=true)
+
+---
+
 ## 📫 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/zona-zubair-9b41b5321/) | [GitHub](https://github.com/ZonaZubair)  
 
