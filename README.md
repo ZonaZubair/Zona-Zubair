@@ -20,7 +20,7 @@ I create **AI-driven applications** and backend solutions that solve real-world 
 
 ## 🚀 Projects
 
-**[Universal File Converter](#)**  
+**[Universal File Converter](https://github.com/ZonaZubair/Universal-File-Converter/tree/main)**  
 - Convert Word, PDF, TXT, and images with **OCR support**.  
 - Features batch automation, progress tracking, and secure file handling.  
 - Built with **Python & Streamlit**.  
@@ -43,14 +43,6 @@ I create **AI-driven applications** and backend solutions that solve real-world 
 - Developed ML solutions for predictive analytics, sentiment analysis, and document processing.  
 - Designed end-to-end ML pipelines and deployed real-time applications.  
 - Collaborated with teams using **Git/GitHub**, improving workflow and project coordination.  
-
----
-
-## 📊 GitHub Stats
-
-![Zona's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZonaZubair&show_icons=true&theme=react)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZonaZubair&layout=compact&theme=react)  
-![Zona's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=ZonaZubair&theme=react-dark&area=true)
 
 ---
 
