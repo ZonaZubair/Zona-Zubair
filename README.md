@@ -20,17 +20,17 @@ I create **AI-driven applications** and backend solutions that solve real-world 
 
 ## 🚀 Projects
 
-**[Universal File Converter](https://github.com/ZonaZubair/Universal-File-Converter/tree/main)**  
+**[Universal File Converter](https://github.com/ZonaZubair/Universal-File-Converter)**  
 - Convert Word, PDF, TXT, and images with **OCR support**.  
 - Features batch automation, progress tracking, and secure file handling.  
 - Built with **Python & Streamlit**.  
 
-**[Brand Sentiment Monitor](#)**  
+**[Brand Sentiment Monitor](https://github.com/ZonaZubair/Brand-Sentiment-Monitor)**  
 - Analyze Reddit comments using **Hugging Face Transformers**.  
 - Provides real-time sentiment insights with dashboards and word clouds.  
 - Built with **Streamlit & Python**.  
 
-**[Web Game for Dyslexia Prediction](#)**  
+**[Web Game for Dyslexia Prediction](https://github.com/ZonaZubair/FYP-Dyslexia-Prediction-App)**  
 - Detect potential signs of dyslexia using reading pattern analysis.  
 - Real-time predictions with **Python, Deep Learning, FastAPI & Flask**.  
 - Interactive frontend for accessible assessments.  
