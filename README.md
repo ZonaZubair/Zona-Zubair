@@ -50,11 +50,3 @@ Python & ML Engineer focused on NLP, deep learning, and deploying production-rea
 
 **ML Engineer Trainee · ITSOLERA · May 2025 - Dec 2025**
 Developed NLP and predictive analytics solutions, designed end-to-end ML pipelines, and deployed real-time applications using Flask and Streamlit.
-
----
-
-<div>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZonaZubair&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-
-</div>
