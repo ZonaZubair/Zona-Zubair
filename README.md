@@ -1,28 +1,60 @@
-# Hi, I'm Zona Zubair
+<div align="center">
 
-Python & ML Engineer · NLP · Deep Learning · FastAPI
+# Zona Zubair
+### Python & ML Engineer
 
-I build end-to-end machine learning pipelines and deploy 
-production-ready applications using Python, Streamlit, and Flask. 
-My work spans NLP, predictive analytics, computer vision, and 
-interactive AI-powered web apps.
+*Building intelligent systems that solve real problems*
 
-## Skills
-Python · TensorFlow · Keras · Scikit-Learn · Hugging Face Transformers
-FastAPI · Flask · Streamlit · OpenCV · Pandas · NumPy · SQL · Git & GitHub
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zonazubair19@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZonaZubair)
 
-## Projects
-**Dyslexia Prediction System** — Deep learning web game for dyslexia 
-detection using CNN, VGG16, and ensemble ML with real-time predictions.
+</div>
 
-**Brand Sentiment Monitor** — Reddit sentiment analysis dashboard using 
-DistilBERT with word clouds and pie charts for multi-brand insights.
+---
 
-**Universal File Converter** — Streamlit app for converting between PDF, 
-Word, TXT, and image formats with OCR support and batch processing.
+### About Me
 
-## Experience
-ML Engineer Trainee · ITSOLERA · May 2025 - Dec 2025
+Python & ML Engineer focused on NLP, deep learning, and deploying production-ready AI applications. I build end-to-end pipelines from data preprocessing to interactive web deployment using Streamlit, Flask, and FastAPI.
 
-## Connect
-[LinkedIn](your-linkedin-url) · [Email](mailto:zonazubair19@gmail.com)
+---
+
+### Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+### Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [Dyslexia Prediction System](https://github.com/ZonaZubair/FYP-Dyslexia-Prediction-App) | Web game for dyslexia detection comparing CNN, VGG16, and ensemble ML with real-time predictions | Python · Flask · TensorFlow · VGG16 |
+| [Brand Sentiment Monitor](https://github.com/ZonaZubair/Brand-Sentiment-Monitor) | Reddit sentiment dashboard using DistilBERT with word clouds and multi-brand insights | Python · Streamlit · DistilBERT |
+| [Universal File Converter](https://github.com/ZonaZubair/Universal-File-Converter) | File conversion between PDF, Word, TXT and images with OCR and batch processing | Python · Streamlit · Tesseract |
+
+---
+
+### Experience
+
+**ML Engineer Trainee · ITSOLERA · May 2025 - Dec 2025**
+Developed NLP and predictive analytics solutions, designed end-to-end ML pipelines, and deployed real-time applications using Flask and Streamlit.
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZonaZubair&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+
+</div>
