@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # Zona Zubair
 ### Python & ML Engineer
@@ -53,7 +53,7 @@ Developed NLP and predictive analytics solutions, designed end-to-end ML pipelin
 
 ---
 
-<div align="center">
+<div>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZonaZubair&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
 
